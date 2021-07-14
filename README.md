@@ -6,7 +6,7 @@ KCI 논문 등재
 *(Cluster analysis of companies introducing smart factory based on 6-domain smart factory maturity assessment model)
 
 ![image](https://user-images.githubusercontent.com/43360435/125562800-88f5722e-9636-4aaa-bfcd-f271fdd47755.png)
-{: width="50%" height="50%"}
+{:height="50%" width="50%"}
 
 
 
