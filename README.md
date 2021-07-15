@@ -1,6 +1,6 @@
 # README.md
 
-KCI 논문 등재
+결과물 : KCI 논문 등재
 
 [6-도메인 스마트팩토리 성숙도 평가 모델 기반 도입기업 군집분석](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002627006)
 *(Cluster analysis of companies introducing smart factory based on 6-domain smart factory maturity assessment model)*
